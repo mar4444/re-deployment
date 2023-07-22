@@ -72,7 +72,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a live website.
+> Live website.
 
 - [Live Demo Link](https://mar4444.github.io/re-deployment/)
 
