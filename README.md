@@ -74,7 +74,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://mar4444.github.io/re-deployment/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
